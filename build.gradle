@@ -15,7 +15,9 @@ plugins {
 
 ext {
     githubProjectName = rootProject.name
+    version "1.5.18-cyzi"
 }
+
 
 allprojects {
     repositories {
